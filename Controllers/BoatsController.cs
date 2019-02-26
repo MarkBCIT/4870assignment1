@@ -12,7 +12,7 @@ namespace assignment.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    //[Authorize(Roles = "Admin,Member")]
+    [Authorize(Roles = "Admin,Member")]
     public class BoatsController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
