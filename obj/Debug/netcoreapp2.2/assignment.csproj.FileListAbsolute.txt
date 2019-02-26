@@ -1,0 +1,14 @@
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\assignment.deps.json
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.json
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.dev.json
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\assignment.dll
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\assignment.pdb
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\assignment.csprojAssemblyReference.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\assignment.csproj.CoreCompileInputs.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cs
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\assignment.AssemblyInfoInputs.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\assignment.AssemblyInfo.cs
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\assignment.RazorTargetAssemblyInfo.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\assignment.dll
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\assignment.pdb

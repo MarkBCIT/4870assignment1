@@ -1,0 +1,14 @@
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\feb1medhat.deps.json
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\feb1medhat.runtimeconfig.json
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\feb1medhat.runtimeconfig.dev.json
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\feb1medhat.dll
+D:\OneDrive\BCIT\4870\TokenAuth\bin\Debug\netcoreapp2.2\feb1medhat.pdb
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\feb1medhat.csprojAssemblyReference.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\feb1medhat.csproj.CoreCompileInputs.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\feb1medhat.RazorAssemblyInfo.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\feb1medhat.RazorAssemblyInfo.cs
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\feb1medhat.AssemblyInfoInputs.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\feb1medhat.AssemblyInfo.cs
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\feb1medhat.RazorTargetAssemblyInfo.cache
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\feb1medhat.dll
+D:\OneDrive\BCIT\4870\TokenAuth\obj\Debug\netcoreapp2.2\feb1medhat.pdb
