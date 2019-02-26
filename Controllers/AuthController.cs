@@ -80,7 +80,12 @@ public class AuthController : Controller {
         new
         {
           token = new JwtSecurityTokenHandler().WriteToken(token),
-          expiration = token.ValidTo
+          username = user.UserName,
+          email = user.Email,
+          firstname = user.FirstName,
+          lastname = user.LastName,
+          country = user.Country,
+          mobilenumber = user.MobileNumber
         });
     }
     return Unauthorized();
