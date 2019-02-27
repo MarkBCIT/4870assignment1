@@ -12,7 +12,7 @@ namespace assignment.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "Admin,Member")]
+
     public class BoatsController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
@@ -24,13 +24,21 @@ namespace assignment.Controllers
 
         // GET: api/Boats
         [HttpGet]
+        [Authorize(Roles = "Admin,Member")]
         public async Task<ActionResult<IEnumerable<Boat>>> GetBoats()
+        {
+            return await _context.Boats.ToListAsync();
+        }
+
+        [HttpGet("test")]
+        public async Task<ActionResult<IEnumerable<Boat>>> GetBoatsTest()
         {
             return await _context.Boats.ToListAsync();
         }
 
         // GET: api/Boats/5
         [HttpGet("{id}")]
+        [Authorize(Roles = "Admin,Member")]
         public async Task<ActionResult<Boat>> GetBoat(int id)
         {
             var boat = await _context.Boats.FindAsync(id);
@@ -76,6 +84,7 @@ namespace assignment.Controllers
 
         // POST: api/Boats
         [HttpPost]
+        [Authorize(Roles = "Admin,Member")]
         public async Task<ActionResult<Boat>> PostBoat(Boat boat)
         {
             _context.Boats.Add(boat);
