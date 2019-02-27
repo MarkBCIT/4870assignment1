@@ -99,8 +99,10 @@ namespace assignment
             }
 
             app.UseCors(builder =>
-    builder.WithOrigins("http://localhost:4200")
+    builder.AllowAnyOrigin()
            .AllowAnyHeader());
+
+
 
             app.UseHttpsRedirection();
             app.UseAuthentication();
